@@ -1,0 +1,115 @@
+.navagation {
+   
+    height: 60px !important;
+    background: #ea0000;
+    position: relative;
+    z-index: 99999;
+    margin-top: -10px;
+    margin-right: -8px;
+    margin-left: -8px;
+    font: 15px/18px robotoslab-regular,Arial,Helvetica,sans-serif;
+    
+}
+
+
+img {
+    height: 46px;
+    max-width: 156px;
+    margin-top: 7px;
+    margin-left: 150px;
+}
+.top-bar {
+    background: #fff;
+    box-shadow: 0 2PX 3px 0 rgb(0 0 0 / 20%);
+    padding: 8px 0 9px;
+    margin-bottom: 0;
+    position: relative;
+    z-index: 10;
+}
+.grid {
+    width: 1190px;
+    margin: 0 auto;
+}
+.notify_sitefl {
+    width: 100000px;
+    margin-left: 0px;
+    animation: 365.163s linear 0s infinite normal none running marqueeAnimation-62243880;
+}
+.list-notify {
+   float: left;
+    margin-right: 15px;
+    border-right: 1px solid #ddd;
+    padding-right: 15px;
+    font-size: 14px;
+    width: 100000px;
+    margin-left: 430px;
+    display: inline;
+
+}
+  
+
+    li {
+        display: inline
+        
+    }
+
+
+.js-marquee {
+    display: inline;
+    margin-left: -315px;
+    margin-top: -10px;
+    width: 400px;
+    display: inline;
+    font-size: 14px;
+}
+marquee {
+    margin-top: -8px;
+}
+
+ul.list_social {
+    float: right;
+    margin-right: -600px;
+    display: inline;
+    margin-top: -7px;
+}
+a {
+    margin-left: 25px !important;
+    color: #333;
+}
+.menu_main fr {
+    height: 70px;
+    width: 600px;
+}
+.grid1190 {
+    width: 1190px;
+    margin: 0 auto;
+    border: 1px solid red;
+    height: 100px;
+
+}
+.menu_main { 
+    border: 1px solid red;
+    height: 15px;
+}
+.icon_home {
+    float: right;
+}
+.navagation main li a {
+ 
+    float: right;
+    margin-top: 22px;
+ 
+   
+
+
+} 
+.logo   {
+    float; left: ;
+}
+
+
+    
+
+   
+
+
